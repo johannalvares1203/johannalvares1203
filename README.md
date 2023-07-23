@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Johann .E Alvares
-- 👀 I’m interested in Software Engineering, Information Technology, Web Development & Computer Security.
+- 👋 Hi, I’m Johann Alvares
+- 👀 I’m interested in Software Engineering, Information Technology, Artificial Intelligence & Computer Security.
 - 🌱 I’m currently learning Front-end Development (HTML, CSS & JavaScript).
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me,
